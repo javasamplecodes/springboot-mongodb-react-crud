@@ -5,3 +5,4 @@ backend/springboot-mongodb-crud/.idea/jarRepositories.xml
 backend/springboot-mongodb-crud/.idea/misc.xml
 backend/springboot-mongodb-crud/.idea/vcs.xml
 backend/springboot-mongodb-crud/.idea/sonarlint/issuestore/index.pb
+*.class
